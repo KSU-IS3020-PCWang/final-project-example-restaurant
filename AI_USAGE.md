@@ -1,25 +1,11 @@
 # AI Improvement Record
 
-## Original Development
+## Instructor Demonstration
 
-Explain how you developed the original version and describe any AI assistance used before the `Original working version before AI improvement` commit. AI use during this stage should be minimal.
+ChatGPT was used to design and add a simple graphical user interface to an already functional restaurant reservation system. The original reservation functions and CSV storage process were preserved, while the command-line menu was replaced with Tkinter entry fields, buttons, a reservation table, and message boxes.
 
-## AI Tools Used
+## Student Requirement
 
-List each AI tool used while improving the application.
+This short record is provided only for the instructor demonstration. For your own final project, explain your AI use in detail. Identify the AI tool you used, describe the important improvement requests you submitted, explain which suggestions you accepted, rejected, or revised, and state why you made those decisions.
 
-## Improvements Requested
-
-Describe the important prompts or requests you gave the AI. Do not paste a complete chat transcript.
-
-## Changes Accepted
-
-For each major accepted change, explain what changed, why you accepted it, and how you verified that you understood it.
-
-## Changes Rejected or Revised
-
-Describe any AI suggestion you rejected or modified and explain why.
-
-## What I Learned
-
-Explain what you learned by reviewing and applying the AI-assisted improvements.
+You must also explain how you tested the AI-assisted changes, how you confirmed that you understand the final code, and what you learned while improving the application. Do not submit only a general sentence saying that AI helped with the project, and do not paste an entire AI chat transcript.
